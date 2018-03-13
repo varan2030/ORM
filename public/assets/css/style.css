@@ -1,20 +1,34 @@
-li {
-    padding: 5px;
-    margin: 5px;
-    background: #faebd7;
-  }
-  
-  .label {
-    font-weight: bold;
-  }
-  
-  .create-update-form {
-    padding: 5px;
-    margin: 5px;
-    background: aqua;
-  }
-  
-  .form-group {
-    margin-bottom: 5px;
-  }
-  
+
+  .title {
+  margin-top: 40px;
+  font-family:'Rammetto One', cursive;
+  text-align: center;
+  color: #b12411;
+}
+
+.burger-icon {
+  display: block;
+    margin: auto;
+    height: 150px;
+}
+p {
+  font-family: 'Open Sans', sans-serif;
+  vertical-align: middle;
+  line-height: 36px;
+  margin: 0px;
+}
+
+.center-vert {
+  margin: 0px;
+}
+li.collection-item.devoured, li.collection-item.not-devoured {
+  background-color: #dfc7dd;
+}
+.devoured-group {
+  color: red;
+}
+
+#burg {
+  font-size: 25px;
+  color: black;
+}
