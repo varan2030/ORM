@@ -17,7 +17,7 @@ Using an home-grown ORM, the app has 3 basic CRUD functions...
     * re-routes the webpage back to the index, where the burger is now ready to be eaten column (via Handlebars)
 
 ### Screenshots
-- Desktop View
+
   * ![Full Size](https://github.com/varan2030/ORM/blob/master/screnshot/screenshot.png)
 
 
