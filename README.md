@@ -3,7 +3,7 @@
 
 ### Overview
 A Node, Express, Handlebars, and MySQL burger app that lets users input the names of burgers they'd like to eat... and then devour them!
-Please check out the launched app on Heroku [here](http://eat-da-burgerz.herokuapp.com/)!
+Please check out the launched app on Heroku [here](https://fierce-bastion-94632.herokuapp.com)!
 
 
 ### Functionality
@@ -18,6 +18,6 @@ Using an home-grown ORM, the app has 3 basic CRUD functions...
 
 ### Screenshots
 - Desktop View
-  * ![Full Size](/screenshots/screenshot.png)
+  * ![Full Size](https://github.com/varan2030/ORM/blob/master/screnshot/screenshot.png)
 
 
